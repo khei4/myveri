@@ -1,0 +1,1 @@
+-debug "typical" "test_popcount" -s "test_popcount.sim" 
