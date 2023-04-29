@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/khei4/git/myveri/src/test_popcount.sv" into library work
+INFO: [VRFC 10-311] analyzing module test_popcount
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/khei4/git/myveri/src/popcount.sv" into library work
+INFO: [VRFC 10-311] analyzing module popcount
